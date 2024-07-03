@@ -17,6 +17,6 @@ public class Student {
     private Long id;
 
     private String name;
-    private Integer Standard;
+    private Integer standard;
     private Integer rollNo;
 }
